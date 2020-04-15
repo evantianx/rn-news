@@ -5,5 +5,5 @@
 ```bash
 yarn
 
-yarn start  // then select which platform you prefer
+yarn start  # then select which platform you prefer
 ```
